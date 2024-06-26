@@ -1,7 +1,10 @@
-# Hola!!:wave: Mi nombre es Ignacio Reparaz
+# Hi! Mi name is Ignacio Reparaz
 
-## Un poquito sobre mi
-<p> Soy una persona apasionada por el mundo tecnológico:computer:. Desde pequeño me introduje al mundo de la programación aprendiendo mediante videos y diferentes cursos hasta que encontre el bootcamp de SoyHenry y fue un gran avance tanto personal como profesional</p>
+## About Me
+<p>Experienced FullStack Developer specializing in Backend development with over 2 years of hands-on experience. 
+ Graduated from SoyHenry, a renowned coding bootcamp. Proficient in a wide range of technologies, 
+ including but not limited to: JavaScript, Node.js, Express.js, MongoDB. Committed to continuous learning and 
+ professional development in the ever-evolving tech industry</p>
 
 ## Skills
 <ul> 
@@ -18,16 +21,19 @@
 </ul>
 
 # Proyectos
-<h3>The Dog App</h3>
+<h3>Menu App</h3>
 <p> 
-Como proyecto individual desarrollé de una aplicación utilizando React-Redux para el Front-End. Los estilos fueron realizados con CSS sin uso de librerias externas. La aplicación consume datos de una API(the dog api) a través de un Back-End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API, como ordenamientos y filtrados y un formulario controlado para la creación de un perro.</p>
+I develop a menu in ReactJS for a restaurant. This application utilizes Firestore as its database,  connected to the 
+restaurant's Google Sheets. This integration allows for easy and real-time price updates, offering  a dynamic and 
+efficient experience for both users and the restaurant team
+</p>
 
 
 <h3>E-commics</h3>
-<p>Desarrollo de una App en grupo para comprar o vender productos relacionados a la cultura pop. Para poder realizar estas acciones como comprar, vender, añadir a carrito o añadir a favoritos es necesario registrarse y loguearse en la App y al momento de la compra del producto recibira un mail confirmando su compra. Ademas, la app cuenta con una seccion de Newsletter, donde los consumidores podran estar actualizados en cuanto a las noticias mas recientes.
+<p>Development of a group app for buying or selling products related to pop culture. To perform actions such as buying, selling, adding to cart, or adding to favorites, users need to register and log into the app. Upon purchasing a product, they will receive a confirmation email. Additionally, the app includes a Newsletter section where consumers can stay updated with the latest news.
 </p>
 
-## Queres saber mas sobre mi?
+## My info:
 <p>Telefono: +54 011 26354397 :calling:</p>
 <p>LinkedIn: <a href='https://www.linkedin.com/in/ignacioreparaz-fullstack/'> linkedin.com/in/ignacioreparaz-fullstack/ </a></p>
 <p>Gmail: nachoreparaz@gmail.com :mailbox:</p> 
